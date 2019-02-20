@@ -7,7 +7,6 @@ import cn.yt.demo_kotlin.R
 import com.google.android.flexbox.FlexboxLayoutManager
 
 /**
- * Created by xuhao on 2017/12/4.
  * desc: Tag 标签布局的 Adapter
  */
 class

@@ -12,7 +12,6 @@ import com.practice.eyepetizer.mvp.model.bean.HomeBean
 
 
 /**
- * Created by xuhao on 2017/12/7.
  * desc: 关注 adapter
  */
 class FollowAdapter(context: Context, dataList: ArrayList<HomeBean.Issue.Item>)

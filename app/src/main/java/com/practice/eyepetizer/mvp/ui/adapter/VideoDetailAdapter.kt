@@ -15,7 +15,6 @@ import com.practice.eyepetizer.mvp.model.bean.HomeBean
 
 
 /**
- * Created by xuhao on 2017/11/25.
  * desc: 视频详情
  */
 

@@ -3,7 +3,6 @@ package com.practice.eyepetizer.mvp.model.bean
 import java.io.Serializable
 
 /**
-* Created by xuhao on 2017/11/21.
 * desc: 首页 Bean（视频详情，相关等）
 */
 data class HomeBean(val issueList: ArrayList<Issue>, val nextPageUrl: String, val nextPublishTime: Long, val newestIssueType: String, val dialog: Any){

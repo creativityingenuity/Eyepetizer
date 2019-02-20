@@ -1,7 +1,6 @@
 package com.practice.eyepetizer.mvp.model.bean
 
 /**
- * Created by xuhao on 2017/11/30.
  * desc: 热门的 tabInfo
  */
 

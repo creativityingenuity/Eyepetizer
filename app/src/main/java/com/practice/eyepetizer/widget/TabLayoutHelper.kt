@@ -9,7 +9,6 @@ import com.practice.eyepetizer.utils.DisplayManager
 import java.lang.reflect.Field
 
 /**
- * Created by xuhao on 2017/12/7.
  * desc:
  */
 object TabLayoutHelper{

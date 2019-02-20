@@ -19,7 +19,6 @@ import com.practice.eyepetizer.mvp.model.bean.HomeBean
 import com.practice.eyepetizer.mvp.ui.activity.VideoDetailActivity
 
 /**
- * Created by xuhao on 2017/12/7.
  * desc: 关注   水平的 RecyclerViewAdapter
  */
 class FollowHorizontalAdapter(mContext: Context, categoryList: ArrayList<HomeBean.Issue.Item>, layoutId: Int) :

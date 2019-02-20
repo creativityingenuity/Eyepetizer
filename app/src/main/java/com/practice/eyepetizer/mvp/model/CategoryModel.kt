@@ -7,7 +7,6 @@ import com.practice.eyepetizer.net.scheduler.SchedulerUtils
 import io.reactivex.Observable
 
 /**
- * Created by xuhao on 2017/11/29.
  * desc: 分类数据模型
  */
 class CategoryModel {

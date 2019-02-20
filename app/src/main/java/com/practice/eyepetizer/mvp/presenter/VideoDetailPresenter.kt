@@ -13,7 +13,6 @@ import com.practice.eyepetizer.utils.DisplayManager
 import com.practice.eyepetizer.utils.NetworkUtil
 
 /**
- * Created by xuhao on 2017/11/25.
  * desc:
  */
 class VideoDetailPresenter : BasePresenter<VideoDetailContract.View>(), VideoDetailContract.Presenter {

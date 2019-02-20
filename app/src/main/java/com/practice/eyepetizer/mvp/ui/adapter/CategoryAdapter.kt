@@ -17,7 +17,6 @@ import com.practice.eyepetizer.mvp.ui.activity.CategoryDetailActivity
 
 
 /**
- * Created by xuhao on 2017/11/29.
  * desc: 分类的 Adapter
  */
 

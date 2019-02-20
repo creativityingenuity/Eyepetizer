@@ -6,7 +6,6 @@ import com.practice.eyepetizer.mvp.model.bean.HomeBean
 
 
 /**
- * Created by xuhao on 2017/11/30.
  * desc: 分类详情契约类
  */
 interface CategoryDetailContract {

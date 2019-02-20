@@ -15,7 +15,7 @@ import kotlinx.android.synthetic.main.activity_personalhomepage.*
  * Created by YT on 2019/1/24.
  */
 class PersonalHomepageActivity : BaseActivity() {
-    internal var url = "https://github.com/creativityingenuity/"
+    internal var url = "https://github.com/creativityingenuity/Eyepetizer/tree/master"
     var x5View: X5WebView? = null
 
     override fun getLayoutId(): Int = R.layout.activity_personalhomepage

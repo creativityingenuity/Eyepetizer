@@ -6,7 +6,6 @@ import com.practice.eyepetizer.mvp.model.bean.HomeBean
 
 
 /**
- * Created by xuhao on 2017/11/30.
  * desc: 契约类
  */
 interface FollowContract {
