@@ -21,7 +21,6 @@ import kotlinx.android.synthetic.main.fragment_category.*
 
 
 /**
- * Created by xuhao on 2017/11/8.
  * 分类
  */
 
