@@ -6,7 +6,7 @@ import com.practice.eyepetizer.mvp.contract.CategoryDetailContract
 
 
 /**
- * Created by xuhao on 2017/11/30.
+
  * desc:
  */
 class CategoryDetailPresenter: BasePresenter<CategoryDetailContract.View>(),CategoryDetailContract.Presenter{
