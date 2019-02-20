@@ -7,7 +7,6 @@ import com.practice.eyepetizer.net.exception.ExceptionHandle
 
 
 /**
- * Created by xuhao on 2017/11/29.
  * desc:分类的 Presenter
  */
 class CategoryPresenter : BasePresenter<CategoryContract.View>(), CategoryContract.Presenter {
